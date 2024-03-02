@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+    
+}
+
+button{
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(150, 218, 247);
+    
+}
